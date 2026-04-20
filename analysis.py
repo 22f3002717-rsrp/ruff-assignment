@@ -1,6 +1,5 @@
-import sys
 import os
+import sys
 
 def test():
-    unused_variable = 100
-    print(   "This has too many spaces"   )
+    print("This is fixed")
